@@ -1,0 +1,4 @@
+repository "GP_CW2@Goldsmith_CW@cloud"
+  path "/"
+    smartbranch "/main/dev"                      
+     
